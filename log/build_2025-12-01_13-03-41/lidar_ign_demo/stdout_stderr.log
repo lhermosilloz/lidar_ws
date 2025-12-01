@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/lidar_ign_demo/lidar_ign_demo.egg-info
+writing ../../build/lidar_ign_demo/lidar_ign_demo.egg-info/PKG-INFO
+writing dependency_links to ../../build/lidar_ign_demo/lidar_ign_demo.egg-info/dependency_links.txt
+writing entry points to ../../build/lidar_ign_demo/lidar_ign_demo.egg-info/entry_points.txt
+writing requirements to ../../build/lidar_ign_demo/lidar_ign_demo.egg-info/requires.txt
+writing top-level names to ../../build/lidar_ign_demo/lidar_ign_demo.egg-info/top_level.txt
+writing manifest file '../../build/lidar_ign_demo/lidar_ign_demo.egg-info/SOURCES.txt'
+reading manifest file '../../build/lidar_ign_demo/lidar_ign_demo.egg-info/SOURCES.txt'
+writing manifest file '../../build/lidar_ign_demo/lidar_ign_demo.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/leonciao/lidar_ws/build/lidar_ign_demo/build
+creating /home/leonciao/lidar_ws/build/lidar_ign_demo/build/lib
+creating /home/leonciao/lidar_ws/build/lidar_ign_demo/build/lib/lidar_ign_demo
+copying lidar_ign_demo/__init__.py -> /home/leonciao/lidar_ws/build/lidar_ign_demo/build/lib/lidar_ign_demo
+running install
+running install_lib
+creating /home/leonciao/lidar_ws/install/lidar_ign_demo/lib/python3.10/site-packages/lidar_ign_demo
+copying /home/leonciao/lidar_ws/build/lidar_ign_demo/build/lib/lidar_ign_demo/__init__.py -> /home/leonciao/lidar_ws/install/lidar_ign_demo/lib/python3.10/site-packages/lidar_ign_demo
+byte-compiling /home/leonciao/lidar_ws/install/lidar_ign_demo/lib/python3.10/site-packages/lidar_ign_demo/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/leonciao/lidar_ws/install/lidar_ign_demo/share/ament_index
+creating /home/leonciao/lidar_ws/install/lidar_ign_demo/share/ament_index/resource_index
+creating /home/leonciao/lidar_ws/install/lidar_ign_demo/share/ament_index/resource_index/packages
+copying resource/lidar_ign_demo -> /home/leonciao/lidar_ws/install/lidar_ign_demo/share/ament_index/resource_index/packages
+copying package.xml -> /home/leonciao/lidar_ws/install/lidar_ign_demo/share/lidar_ign_demo
+running install_egg_info
+Copying ../../build/lidar_ign_demo/lidar_ign_demo.egg-info to /home/leonciao/lidar_ws/install/lidar_ign_demo/lib/python3.10/site-packages/lidar_ign_demo-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/leonciao/lidar_ws/build/lidar_ign_demo/install.log'
